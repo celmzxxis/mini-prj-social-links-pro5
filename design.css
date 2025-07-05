@@ -14,3 +14,43 @@ body{
     align-items: center;
     
 }
+
+.social1 {
+    color: hsl(0, 0%, 100%);
+}
+
+.social2 {
+    color: hsl(0, 0%, 100%);
+}
+
+.social3 {
+    color: hsl(0, 0%, 100%);
+}
+
+.social4 {
+    color: hsl(0, 0%, 100%);
+}
+
+.social5 {
+    color: hsl(0, 0%, 100%);
+}
+
+.location{
+    color: hsl(75, 94%, 57%);
+}
+
+.name-account{
+    color: hsl(0, 0%, 100%);
+}
+
+.biography{
+    color: hsl(0, 0%, 100%) ;
+}
+
+.card img{
+    border-radius: 50%;
+}
+.card{
+
+
+}
